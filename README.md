@@ -31,3 +31,18 @@ Exploring the intersection of **Artificial Intelligence, Full-Stack Development,
 ### `BUILD • LEARN • SHIP • REPEAT`
 
 </div>
+---
+
+## 🧠 About Me
+
+I'm **Danish Hamid**, a developer who enjoys turning ideas into practical technology.
+
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🌐 Building **Full-Stack applications**
+- ⛓️ Experimenting with **Blockchain & Web3**
+- 🛰️ Interested in **Machine learning**
+- 🚀 Participating in **real-world projects**
+- 📚 Always learning, building, and experimenting
+
+> **I don't just learn technology — I build with it.**
+
