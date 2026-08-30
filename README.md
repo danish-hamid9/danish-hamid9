@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**danish-hamid9/danish-hamid9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DANISH HAMID
 
-Here are some ideas to get you started:
+### AI • SOFTWARE • BLOCKCHAIN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building intelligent systems. Turning ideas into reality.*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danish-hamid9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-hamid-55935b292/)
+
+</div>
+
+---
+
+## ⚡ Currently Building
+
+> **AI-powered systems & intelligent digital experiences**
+
+Exploring the intersection of **Artificial Intelligence, Full-Stack Development, Geospatial Technology, and Blockchain.**
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • SHIP • REPEAT`
+
+</div>
