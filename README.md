@@ -45,4 +45,49 @@ I'm **Danish Hamid**, a developer who enjoys turning ideas into practical techno
 - 📚 Always learning, building, and experimenting
 
 > **I don't just learn technology — I build with it.**
+---
 
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### 📊 Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI-Based Visual Risk & Compliance Intelligence System
+> An AI-powered system designed to analyze visual data and identify potential risks and compliance issues.
+
+**Focus:** Artificial Intelligence • Computer Vision • Data Analysis
+
+---
+
+### 🛰️ Deep Learning Based Super Resolution Mapping
+> Using deep learning to enhance spatial details in medium-resolution satellite imagery for better geospatial analysis.
+
+**Focus:** Deep Learning • Satellite Imagery • Geospatial Technology
+
+---
+
+### ⛓️ Blockchain Geospatial Data Platform
+> A blockchain-based platform for secure geospatial data management, permissions, and trusted data sharing.
+
+**Focus:** Blockchain • Geospatial Data • Smart Contracts
+---
