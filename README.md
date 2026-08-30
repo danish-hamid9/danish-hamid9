@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Danish Hamid - Developer Banner">
+</p>
 <div align="center">
 
 # DANISH HAMID
